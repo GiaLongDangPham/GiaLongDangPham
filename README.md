@@ -3,12 +3,19 @@
 🚀 **Backend Developer** | 💻 Passionate about building scalable systems
 
 🎓 **HCMUT** – Major in Software Engineering
-🔹 Skilled in Java, Spring Boot, RESTful APIs, SQL, Kafka, Redis<br>
-🔹 Experienced with Elasticsearch, Kibana, Logstash for logging & analytics<br>
-🔹 Proficient in Angular, React, HTML, CSS, JavaScript<br>
-🔹 Hands-on with Git, Docker, Postman<br><br>💡 Always improving: System design, API development & microservices<br>
+---
 
+## 💼 Skills & Tools
 
+- 🔧 **Languages & Frameworks**: Java, Spring Boot, SQL, RESTful APIs  
+- ⚡ **Dev Tools**: Git, Docker, Postman, IntelliJ  
+- 📡 **Messaging & Caching**: Kafka, Redis  
+- 📊 **Search & Analytics**: Elasticsearch, Kibana, Logstash  
+- 🌐 **Frontend Basics**: Angular, React, HTML, CSS, JavaScript  
+
+🧠 **Currently learning**: System design, microservices architecture, performance optimization
+
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gia.long.dang.pham/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:longdpg.t1.2023@gmail.com) 
