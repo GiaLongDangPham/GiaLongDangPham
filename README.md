@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Đặng Phạm Gia Long
 
+🌐 **Portfolio:** [portfolio.app](https://portfolio-psi-two-wpuqkhybgm.vercel.app/)
+
+
 🚀 **Backend Developer** | 💻 Passionate about building scalable systems
 
 🎓 **HCMUT** – Major in Software Engineering
@@ -18,7 +21,7 @@
 ---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gia.long.dang.pham/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:longdpg.t1.2023@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:longdpg.t1.2023@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/long-dang-pham-gia-924734285/)  
 
 # 💻 Tech Stack:
