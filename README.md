@@ -1,11 +1,8 @@
-# 👋 Hi, I'm Đặng Phạm Gia Long
+# Hi, I'm Đặng Phạm Gia Long
 
-🌐 **Portfolio:** [portfolio.app](https://portfolio-psi-two-wpuqkhybgm.vercel.app/)
+**Portfolio:** [portfolio.app](https://portfolio-psi-two-wpuqkhybgm.vercel.app/)
 
-
-🚀 **Backend Developer** | 💻 Passionate about building scalable systems
-
-🎓 **HCMUT** – Major in Software Engineering
+**HCMUT** – Major in Software Engineering
 ---
 
 ## 💼 Skills & Tools
