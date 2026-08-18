@@ -30,17 +30,6 @@ I enjoy working on problems involving **API design, authentication, real-time co
 
 ## Featured Projects
 
-### 💳 [Dispute Outcomes](https://github.com/GiaLongDangPham/geocomply)
-**Spring Boot · React · JPA · H2 · Flyway**
-
-An internal dispute-review application designed around correctness, privacy, and traceability.
-
-- Audit trail for outcome corrections with transactional consistency
-- Optimistic locking to prevent stale concurrent updates
-- PII masking at API boundaries while preserving server-side search
-- Validated CSV seed import, Flyway migrations, integration and frontend tests
-- Architecture documentation with explicit production trade-offs
-
 ### 🔗 [RelayForge](https://github.com/GiaLongDangPham/relayforge)
 **Java 25 · Spring Boot · PostgreSQL · Spring Security · Flyway · Testcontainers**
 
