@@ -1,97 +1,56 @@
-<h1 align="center">Hi, I'm Gia Long Dang Pham 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Engineering @ HCMUT · Backend-focused Full-stack Developer</strong>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:22D3EE&height=220&section=header&text=Gia%20Long%20Dang%20Pham&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend-focused%20Full-stack&descAlignY=55&descSize=18" alt="Gia Long Dang Pham" />
 
-<p align="center">
-  Java · Spring Boot · React / Angular · SQL · Redis · Kafka · Docker
-</p>
+### Software Developer @ AIPOWER · Computer Science @ HCMUT · GPA 3.7/4
 
-<p align="center">
-  <a href="https://portfolio-psi-two-wpuqkhybgm.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/long-dang-pham-gia-924734285/">LinkedIn</a> ·
-  <a href="mailto:longdpg.t1.2023@gmail.com">Email</a>
-</p>
+`1 year of experience` · `Backend Engineering` · `Full-stack Development` · `System Design`
 
----
+<a href="https://portfolio-psi-two-wpuqkhybgm.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/long-dang-pham-gia-924734285/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:longdpg.t1.2023@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-## About Me
+</div>
 
-I'm a Software Engineering student at **Ho Chi Minh City University of Technology (HCMUT)**, focused on building reliable backend systems and practical full-stack applications.
+## Tech Stack
 
-I enjoy working on problems involving **API design, authentication, real-time communication, data consistency, caching, messaging, search, testing, and system architecture**. I care about understanding why a technical choice is made, not just making a feature work.
+<div align="center">
 
-- 🔭 Building backend-heavy full-stack projects with **Java & Spring Boot**
-- 🧠 Learning more about **system design, distributed systems, performance, and production-ready engineering**
-- 🛠️ Comfortable working across backend, database, infrastructure, and frontend when needed
+<img src="https://skillicons.dev/icons?i=java,spring,ts,angular,react,postgres,mysql,redis,kafka,docker,aws,git&perline=12" alt="Java, Spring, TypeScript, Angular, React, PostgreSQL, MySQL, Redis, Kafka, Docker, AWS and Git" />
 
----
+</div>
+
+**Backend:** Java · Spring Boot · Spring Security · REST APIs · JPA/Hibernate  
+**Frontend:** Angular · React · TypeScript · NgRx · Nx · Micro-frontends  
+**Data & Cloud:** PostgreSQL · MySQL · Redis · Kafka · Docker · AWS
+
+## Experience
+
+- **Software Developer · AIPOWER** `08/2026 - Present`  
+  Real-time kiosks · Multi-tenant RBAC · Payment webhooks · Cloud workflows
+
+- **Frontend Developer Intern · XPERC LTD.** `11/2025 - 07/2026`  
+  Angular · NgRx · Nx · Module Federation · REST API integration
 
 ## Featured Projects
 
-### 🔗 [RelayForge](https://github.com/GiaLongDangPham/relayforge)
-**Java 25 · Spring Boot · PostgreSQL · Spring Security · Flyway · Testcontainers**
+| Project | Highlights | Stack |
+| :--- | :--- | :--- |
+| 🔗 **[RelayForge](https://github.com/GiaLongDangPham/relayforge)** | Reliable webhook delivery · Idempotency · Automatic retries · Multi-worker recovery · HMAC signing | Java 25 · Spring Boot · PostgreSQL · Testcontainers · Docker |
+| 🤖 **[AI Agent Chatbot](https://drive.google.com/file/d/1g-yMBCFONgPASDE7OQ8cVhZ2s4gLWTga/view?usp=drive_link)** | Vietnamese academic advising · RAG · PDF knowledge base · Answer citations | Spring Boot · Angular · FastAPI · PostgreSQL |
+| 💼 **[Online Recruitment System](https://github.com/nKhanGh/BKJob-Backend)** | Job search · Weighted recommendations · Application workflows · Async processing · **[Frontend](https://github.com/nKhanGh/BKJob-Frontend)** | Spring Boot · React · MySQL · Redis · Kafka · AWS S3 |
 
-A webhook delivery platform built to keep outgoing events reliable when receivers or workers fail.
+## Highlights
 
-- Project, API key, webhook endpoint, and event subscription management
-- Idempotent event publishing with asynchronous delivery to matching endpoints
-- Automatic retries, concurrent worker processing, and recovery after crashes or restarts
-- HMAC-signed requests, encrypted webhook secrets, and unsafe URL blocking
-- Delivery history, manual replay, monitoring, Docker setup, and AWS deployment
+<div align="center">
 
-### 👥 [Social Network / Facebook Clone](https://github.com/GiaLongDangPham/facebook-be)
-**Spring Boot · Angular · MySQL · Redis · WebSocket/STOMP**
+🏆 **Top 5% Scholarship** &nbsp;·&nbsp; 💻 **ICPC Vietnam National Round** &nbsp;·&nbsp; 📜 **Scrum Certified**  
+🌍 **TOEIC Listening & Reading 845/990** &nbsp;·&nbsp; **Speaking & Writing 240/400**
 
-A social networking application focused on real-time interaction and user communication.
+<br />
 
-- Posts, comments, likes, privacy controls, friendships, and personalized feeds
-- Real-time notifications, direct messaging, online status, and typing indicators
-- JWT access/refresh-token flow
-- Redis-backed real-time state and scalable messaging-oriented design
+<img src="https://komarev.com/ghpvc/?username=GiaLongDangPham&label=Profile%20views&color=2563EB&style=flat-square" alt="Profile views" />
 
-**Frontend:** [facebook-fe](https://github.com/GiaLongDangPham/facebook-fe)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:2563EB,100:0F172A&height=100&section=footer" alt="" />
 
----
-
-## Technical Toolkit
-
-**Backend**  
-Java · Spring Boot · Spring Security · REST APIs · WebSocket/STOMP · JPA/Hibernate
-
-**Data & Messaging**  
-MySQL · PostgreSQL · SQL Server · Redis · Kafka · Elasticsearch
-
-**Frontend**  
-React · Angular · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
-
-**Engineering & Tooling**  
-Docker · Git · GitHub Actions · Maven · Postman · Swagger/OpenAPI · Flyway · Prometheus · Grafana · ELK
-
----
-
-## What I Value
-
-- Clear architecture and separation of responsibilities
-- Correctness, data integrity, and predictable failure handling
-- Security and privacy at system boundaries
-- Tests for important business rules instead of only happy paths
-- Documenting engineering decisions and trade-offs
-- Building systems that are understandable and maintainable
-
----
-
-## Connect With Me
-
-<p>
-  <a href="mailto:longdpg.t1.2023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/long-dang-pham-gia-924734285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://portfolio-psi-two-wpuqkhybgm.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GiaLongDangPham&label=Profile%20views&style=flat-square" alt="Profile views" />
-</p>
+</div>
