@@ -44,7 +44,7 @@
 
 <div align="center">
 
-🏆 **Top 5% Scholarship** &nbsp;·&nbsp; 💻 **ICPC Vietnam National Round** &nbsp;·&nbsp; 📜 **Scrum Certified**  
+🏆 **Top 5% Scholarship of Computer Science students** &nbsp;·&nbsp; 💻 **ICPC Vietnam National Round** &nbsp;·&nbsp; 📜 **Scrum Certified**  
 🌍 **TOEIC Listening & Reading 845/990** &nbsp;·&nbsp; **Speaking & Writing 240/400**
 
 <br />
