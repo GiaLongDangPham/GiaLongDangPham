@@ -36,7 +36,7 @@
 
 | Project | Highlights | Stack |
 | :--- | :--- | :--- |
-| 🔗 **[RelayForge](https://github.com/GiaLongDangPham/relayforge)** | Reliable webhook delivery · Idempotency · Automatic retries · Multi-worker recovery · HMAC signing | Java 25 · Spring Boot · PostgreSQL · Testcontainers · Docker |
+| 🔗 **[RelayForge](https://github.com/GiaLongDangPham/relayforge)** | Reliable webhook delivery · Idempotency · Automatic retries · Multi-worker recovery · HMAC signing | Java 25 · Spring Boot · PostgreSQL · Testcontainers · Archunit · Docker |
 | 🤖 **[AI Agent Chatbot](https://drive.google.com/file/d/1g-yMBCFONgPASDE7OQ8cVhZ2s4gLWTga/view?usp=drive_link)** | Vietnamese academic advising · RAG · PDF knowledge base · Answer citations | Spring Boot · Angular · FastAPI · PostgreSQL |
 | 💼 **[Online Recruitment System](https://github.com/nKhanGh/BKJob-Backend)** | Job search · Weighted recommendations · Application workflows · Async processing · **[Frontend](https://github.com/nKhanGh/BKJob-Frontend)** | Spring Boot · React · MySQL · Redis · Kafka · AWS S3 |
 
